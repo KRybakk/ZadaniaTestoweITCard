@@ -8,7 +8,7 @@
 ## Generowanie raportów
 Raporty generowane są do folderu Reports znajdującego się w folderze rozwiązania. 
 Dla każdego raportu w folderze Reports generowany jest folder, który zawierać będzie plik html z 
-opisem przebiegu testów i zrzuty ekranu zrobione podczas wykonywania testów, jeśli przydarzył się błąd.
+opisem przebiegu testów i zrzuty ekranu zrobione podczas wykonywania testów, jeśli przydarzył się błąd. Zrzuty ekranu widoczne są również w raporcie.
 
 ## Przeglądarki
 Testy przeprowadzane są na przeglądarkach Google Chrome i Firefox.
